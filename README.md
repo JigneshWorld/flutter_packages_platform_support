@@ -1,3 +1,5 @@
+[Archived: As now pub.dev showing these info]
+
 # flutter_packages_platform_support
 Flutter packages support for different platform
 
